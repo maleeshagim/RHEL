@@ -1,0 +1,6 @@
+Introduction to dnf (yum)
+
+Use to install packages with their dependencies
+Repository = Packages + Dependencies
+
+Yum is the older tool and dnf is the new tool
